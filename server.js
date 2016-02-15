@@ -77,5 +77,5 @@
 
 
   // starting the server
-  app.listen(1337);
-  console.log('listening at localhost:1337');
+  app.listen(3000);
+  console.log('listening at localhost:3000');
